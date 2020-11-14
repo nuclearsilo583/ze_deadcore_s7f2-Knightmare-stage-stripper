@@ -7,7 +7,7 @@ Thanks 1x dot for CC
 
 Install raw file as game_dir/materials/correction/
 
-Warning: client must have these raw file in their csgo/materials/correction/ folder 
+Warning: client must have these raw file in their csgo/materials/correction/ folder (add these file to download table)
 
 ## Current version: 1.3 on master
 Knightmare: remove zm attack on D boss, Boss hp reduction decrease from 4 to 2 (80%), increase final laser timer, re-enable final beam 
