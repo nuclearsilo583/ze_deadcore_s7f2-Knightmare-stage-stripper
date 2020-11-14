@@ -6,6 +6,7 @@ Win insane D will allow you to choose wheither champion or Knightmare (Got tp in
 Thanks 1x dot for CC
 
 Install raw file as game_dir/materials/correction/
+
 Warning: client must have these raw file in their csgo/materials/correction/ folder 
 
 ## Current version: 1.3 on master
