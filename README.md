@@ -5,6 +5,8 @@ Win insane D will allow you to choose wheither champion or Knightmare (Got tp in
 
 Thanks 1x dot for CC
 
+Install raw file as game_dir/materials/correction/
+
 ## fix bug on champion win that wont teleport winner to admin room
 
 ### change champion stage from normal insane D with boss and D end only
