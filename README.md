@@ -14,15 +14,15 @@ Added admin room button that you can choose to use CC on Knightmare, Left if off
 
 Fix bug when on Knightmare that need to press reset map button to be able to choose champion
 
-### v1.3
+# v1.3
 Knightmare: remove zm attack on D boss, Boss hp reduction decrease from 4 to 2 (80%), increase final laser timer, re-enable final beam 
 
 Champion: Boss and D end only
 
-#### v1.2 version
+# v1.2 version
 Add CC and change champion stage to Boss and D end only
 
-##### v1.0 version: Original
+# v1.0 version: Original
 Add champion and knightmare stages
 
 Knightmare: B End, C end, Boss (60%), D end and wall
