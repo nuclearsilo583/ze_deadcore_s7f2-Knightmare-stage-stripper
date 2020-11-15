@@ -10,7 +10,7 @@ Install raw file as game_dir/materials/correction/
 Warning: client must have these raw file in their csgo/materials/correction/ folder (add these file to download table)
 
 ## Current version 1.4 on master
-Added admin room button that you can choose to use CC on Knightmare, Left if off, Right is on, CC on by default
+Added admin room button that you can choose to use CC on Knightmare, Left if off, Right is on, CC on by default, change boss hp reduction from 2 to 3
 
 Fix bug when on Knightmare that need to press reset map button to be able to choose champion
 
