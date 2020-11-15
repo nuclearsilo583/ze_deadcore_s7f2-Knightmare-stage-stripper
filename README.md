@@ -13,7 +13,7 @@ Warning: client must have these raw file in their csgo/materials/correction/ fol
 
 Remove blue2 CC since tester compliment its easy to get player got dizzy (remove completely from your game server if you using v1.5 you dont need this file)
 
-Remove black CC on C end and final D end since only a few player that can survive
+Remove black CC on C end and final D end since only a few player that can survive, using v1 original D ending
 
 Adjust final beam laser by 1s
 
