@@ -9,12 +9,21 @@ Install raw file as game_dir/materials/correction/
 
 Warning: client must have these raw file in their csgo/materials/correction/ folder (add these file to download table)
 
-## Current version 1.4 on master
+# Current version v1.5 on master
+
+Remove blue2 CC since tester compliment its easy to get player got dizzy (remove completely from your game server if you using v1.5 you dont need this file)
+
+Remove black CC on C end and final D end since only a few player that can survive
+
+Adjust final beam laser by 1s
+
+
+# v1.4 version
 Added admin room button that you can choose to use CC on Knightmare, Left if off, Right is on, CC on by default, change boss hp reduction from 2 to 3
 
 Fix bug when on Knightmare that need to press reset map button to be able to choose champion
 
-# v1.3
+# v1.3 version
 Knightmare: remove zm attack on D boss, Boss hp reduction decrease from 4 to 2 (80%), increase final laser timer, re-enable final beam 
 
 Champion: Boss and D end only
