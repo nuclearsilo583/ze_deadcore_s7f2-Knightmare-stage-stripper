@@ -18,10 +18,12 @@ Remove black CC on C end and final D end since only a few player that can surviv
 Adjust final beam laser by 1s
 
 
-# v1.4 version
+# v1.4 version and v1.4.5
 Added admin room button that you can choose to use CC on Knightmare, Left if off, Right is on, CC on by default, change boss hp reduction from 2 to 3
 
 Fix bug when on Knightmare that need to press reset map button to be able to choose champion
+
+v1.4.5: remove blue2 CC on boss
 
 # v1.3 version
 Knightmare: remove zm attack on D boss, Boss hp reduction decrease from 4 to 2 (80%), increase final laser timer, re-enable final beam 
