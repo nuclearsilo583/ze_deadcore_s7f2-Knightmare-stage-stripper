@@ -12,7 +12,7 @@ Warning: client must have these raw file in their csgo/materials/correction/ fol
 # Version 1.6 on master
 Added new stage: Error . Install new music sound for best experience
 
-What's new on this stage (Install stripper to find by your self)
+What's new on this stage (Install stripper to find out by yourself)
 
 # v1.5 version
 
