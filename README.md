@@ -9,10 +9,12 @@ Install raw file as game_dir/materials/correction/
 
 Warning: client must have these raw file in their csgo/materials/correction/ folder (add these file to download table)
 
-# Version 1.6 on master
+# Version 1.6 and 1.6.5 on master
 Added new stage: Error . Install new music sound for best experience
 
 What's new on this stage (Install stripper to find out by yourself)
+
+What's on 1.6.5 (items)
 
 # v1.5 version
 
