@@ -1,4 +1,4 @@
-# I would recommend that using ver 1.4 or 1.4.5 for the best experience (you need both CC file for this 2 version)
+# Warning: Error Stage is cancer for newbie ( Please use at your own risk)
 Add champion and knightmare stage on ze_deadcore_s7f2
 
 Win insane D will allow you to choose wheither champion or Knightmare (Got tp into admin room)
@@ -9,7 +9,12 @@ Install raw file as game_dir/materials/correction/
 
 Warning: client must have these raw file in their csgo/materials/correction/ folder (add these file to download table)
 
-# Current version v1.5 on master
+# Version 1.6 on master
+Added new stage: Error
+
+What's new on this stage (Install stripper to find by your self)
+
+# v1.5 version
 
 Remove blue2 CC since tester compliment its easy to get player got dizzy (remove completely from your game server if you using v1.5 you dont need this file)
 
