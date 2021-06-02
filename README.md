@@ -9,7 +9,13 @@ Install raw file as game_dir/materials/correction/
 
 Warning: client must have these raw file in their csgo/materials/correction/ folder (add these file to download table)
 
-# Version 1.6 and 1.6.5 on master
+# v1.7
+Knightmare v2: Remove B and C stage since it take too long for this stage. Now D only
+- Major buff for boss
+- Added feature to toogle damage or 1 hit wall on final run (Only on Knightmare V2)
+Error: Slightly buff for boss
+
+#  v1.6 and v1.6.5
 Added new stage: Error . Install new music sound for best experience
 
 What's new on this stage (Install stripper to find out by yourself)
